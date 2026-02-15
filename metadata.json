@@ -1,0 +1,7 @@
+{
+  "name": "Ramadan Smart Calendar PRO",
+  "description": "A premium Islamic utility app for Bangladesh featuring auto-location prayer times, Ramadan detection with moon sighting override, smart alarms, and worship tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
